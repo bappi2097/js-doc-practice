@@ -1,0 +1,2 @@
+# jsDoc
+A JavaScript project
